@@ -1,15 +1,17 @@
+<a name="readme-top"></a>
+
 ![image](https://github.com/user-attachments/assets/6ddfe199-2980-4218-ba19-6582a95a8446)
 
 
-# Retail Dataset
+## About The Project
 Using Kaggle and a publicaly available dataset [Retail Transactions: Online Sales Dataset](https://www.kaggle.com/datasets/shashanks1202/retail-transactions-online-sales-dataset), I performed data cleaning, processed the data for prediction models, and evaluated predictions using both Prophet and Linear Regression. 
 <br>
 <br>
 The results were visualized with Matplotlib and Seaborn, and the detailed analysis and findings are documented in this [notebook](https://github.com/CameronCSS/Retail_Profit_Predictions/blob/master/Retail_Profit_Predictions.ipynb)
 
+<hr>
 
-
-## Data Cleaning/Processing Steps
+### Data Cleaning/Processing Steps
 
 
 - **Data Integration:** Combine data from multiple sources and resolve conflicts or discrepancies
@@ -49,3 +51,21 @@ The results were visualized with Matplotlib and Seaborn, and the detailed analys
 - This data and testing proves how much value ML models put into Deviation, whereas a human may take into account many other factors, such as the Fact that 85123A was a Top product in all three years but both models predicting it going DOWN
 
 #### With more years data available the Deviation would not hold as much weight on the final prediction results
+
+
+----
+
+<a name="Contact"></a> 
+## <a href="https://camdoesdata.com/#contact">Contact Me</a>
+
+  </table>
+  <p style="margin-left: auto;">
+    <a href="https://drive.google.com/file/d/1YaM4hDtt2-79ShBVTN06Y3BU79LvFw6J/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+      <img src="https://user-images.githubusercontent.com/121735588/215364205-abdfc0ac-53db-4733-8d43-b57c1bafb802.png" alt="Resume button">
+    </a>
+  </p>
+</div>
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
